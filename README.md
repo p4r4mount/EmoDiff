@@ -48,5 +48,16 @@ python predict.py --model_path /path/to/model/checkpoint \
                   --output_path /path/to/output/directory
 ```
 
+## Citation
 
+```
+@article{wu2024motion,
+  title={E-Motion: Future Motion Simulation via Event Sequence Diffusion},
+  author={Wu, Song and Zhu, Zhiyu and Hou, Junhui and Shi, Guangming and Wu, Jinjian},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={105552--105582},
+  year={2024}
+}
+```
 
